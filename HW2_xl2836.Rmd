@@ -1,0 +1,13 @@
+---
+title: "HW2_xl2836"
+author: "Xinyi Lin"
+date: "9/27/2018"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r}
+
+```
+
